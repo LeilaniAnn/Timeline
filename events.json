@@ -1,0 +1,59 @@
+{
+    "timeline":
+    {
+        "headline":"Welcome to the life and times of Harry Potter",
+        "type":"default",
+        "text":"<p>Harry Potter is a famous wizard!</p>",
+        "asset": {
+            "media":"http://media0.giphy.com/media/pZMA8sxrBFNCw/giphy.gif"
+        },
+        "date": [
+            {
+                "startDate":"1980,07,31",
+                "headline":"Godric's Hollow",
+                "text":"<p>Harry James Potter born to Lily Evans Potter and James Potter.</p>",
+                "tag":"Harry Potter is born",
+                "asset": {
+                    "media":"http://images4.fanpop.com/image/photos/18800000/HP-harry-potter-18871653-500-206.jpg",
+                    "thumbnail":"http://vignette3.wikia.nocookie.net/harrypotter/images/a/a8/GodricsHollow_WB_F7_GodricsHollowReferencePhoto_Still_080615_Land_%281%29.jpg"
+                   
+                }
+            },
+
+                 {
+                "startDate":"1981,07,24",
+                "headline":"Godric's Hollow",
+                "text":"<p>Near midnight - Voldemort attempts to kill Harry Potter after murdering his parents, but his spell rebounds. Voldemort loses most of his powers and almost his life.</p>",
+                "tag":"Harry's parents are killed :(",
+                "asset": {
+                    "media":"http://static2.hypable.com/wp-content/uploads/2011/10/lilyjamespotter.jpg",
+                    "thumbnail":"http://vignette3.wikia.nocookie.net/harrypotter/images/a/a8/GodricsHollow_WB_F7_GodricsHollowReferencePhoto_Still_080615_Land_%281%29.jpg"
+                   
+                }
+                },
+                {
+                "startDate":"1991,07,31",
+                "headline":"4 Privet Drive Little Whinging, Surrey, England",
+                "text":"<p>Letters begin arriving via owl post to invite Harry to Hogwarts.</p>",
+                "tag":"Harry Potter is notifed about Hogwarts",
+                "asset": {
+                    "media":"http://cdn1.theodysseyonline.com/files/2014/11/20/635520961476244888798720642_tumblr_inline_mgrr62xnrl1rsns0p.gif",
+                    "thumbnail":"http://vignette3.wikia.nocookie.net/harrypotter/images/a/a8/GodricsHollow_WB_F7_GodricsHollowReferencePhoto_Still_080615_Land_%281%29.jpg"
+                   
+                }
+            },
+                  {
+                "startDate":"1998,05,02",
+                "headline":"Hogwarts School of Witchcraft and Wizadry",
+                "text":"<p>The climactic final showdown between the side of good and the side of evil. Hogwarts castle was damaged in this battle and fifty people died defending it, including Fred Weasley, Tonks, Lupin, and Colin Creevey. In the end, Harry Potter killed Voldemort in the Great Hall.</p>",
+                "tag":"Jump all the way to the end **SPOILER ALERT**",
+                "asset": {
+                    "media":"http://www.cinemablend.com/images/sections/63825/harry_potter_63825.jpg",
+                    "thumbnail":"http://orig08.deviantart.net/b517/f/2013/125/4/5/battle_at_hogwarts_by_akisaiko-d646gll.jpg"
+                   
+                }
+            }
+
+        ]
+    }
+}
