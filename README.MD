@@ -6,5 +6,5 @@ Open a terminal shell
 Type python -m SimpleHTTPServer 8000
 in your web browser, open http://localhost:8000/task3/task3.html
 
-TO SEE CODE LIVE, GO TO: http://leilani.ninja/leilani/task3.html
+TO SEE CODE LIVE, GO TO: http://leilaniann.github.io/Timeline/task3.html
 
